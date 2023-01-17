@@ -1,11 +1,12 @@
-# rouigram
-Rouigram Reference for c#  
-the first instagram_user id api now in c# reference
+# Rouigram
 
-you have to install Newtonsoft before run this dll 
+Rouigram Reference for c#  
+the first instagram_user id api now created for c# 
+
+you have to install Newtonsoft before using this dll 
 example code:
 
-
+```c#
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -27,6 +28,4 @@ namespace Test
         }
     }
 }
-
-
-for more information call this number :+989214277802
+```
