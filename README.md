@@ -1,8 +1,15 @@
-# Rouigram
+# NO LONGER ACTIVE !
 
-Rouigram Reference for c#  
-the first instagram_user id api now created for c# 
+Rouigram
+=========
+Rouigram was a first Instagram user Id API which had been devloped and maintained by [Mohammad Ali Mirhammed](https://github.com/MohammadaliMirhamed/rouigram.py).
 
+Rouigram Reference for C#  
+=========================
+As one of my very first projects pushed to github, I had managed to create a C# reference for this astonishing webservice.
+
+How to Use
+=========================
 you have to install Newtonsoft before using this dll 
 example code:
 
