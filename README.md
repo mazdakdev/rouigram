@@ -2,7 +2,7 @@
 
 Rouigram
 =========
-Rouigram was a first Instagram user Id API which had been devloped and maintained by [Mohammad Ali Mirhammed](https://github.com/MohammadaliMirhamed/rouigram.py).
+Rouigram was the first Instagram user Id API which had been devloped and maintained by [Mohammad Ali Mirhammed](https://github.com/MohammadaliMirhamed/rouigram.py).
 
 Rouigram Reference for C#  
 =========================
